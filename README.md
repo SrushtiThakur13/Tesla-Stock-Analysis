@@ -46,6 +46,5 @@ It includes a Tableau dashboard visualizing key performance metrics, price trend
 
 ## 📌 Notes
 
-- This project is for educational and portfolio purposes only.
 - Data used here is publicly available through Yahoo Finance.
 
